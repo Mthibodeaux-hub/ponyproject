@@ -1,0 +1,5 @@
+#page-wrap {
+    width: 80%;
+    border-left: 1px dashed red;
+    border-right:  1px dashed red;
+}
